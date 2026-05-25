@@ -1,0 +1,2 @@
+[console_scripts]
+aie-echolog-toolkit = aie_echolog_toolkit.server:main

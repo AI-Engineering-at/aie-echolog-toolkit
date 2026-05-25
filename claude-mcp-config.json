@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "aie-echolog-toolkit": {
+      "command": "aie-echolog-toolkit",
+      "args": [],
+      "env": {
+        "AIE_KB_ROOT": "/Users/mackbook/kb",
+        "HONCHO_BASE_URL": "http://10.40.10.82:8055",
+        "HONCHO_WORKSPACE": "ai-engineering",
+        "OPEN_NOTEBOOK_URL": "http://10.40.10.82:5055",
+        "BRAND_SOUL_NOTEBOOK_ID": "jkbjq4ndpqmo5nxkfhit",
+        "VG_BRIDGE_URL": "http://127.0.0.1:8765",
+        "MATTERMOST_URL": "https://mm.ai-engineering.at",
+        "AIE_VERIFY_URL": "https://verify.ai-engineering.at",
+        "AIE_HASH_CHAIN_DIR": "/Users/mackbook/.aie/echolog-chains",
+        "AIE_ECHOLOG_DEMO": "0"
+      }
+    }
+  }
+}
